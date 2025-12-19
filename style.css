@@ -1,0 +1,71 @@
+    .background-principal{
+        margin: 0;
+        padding: 0;
+        background-color:#000000;
+    }
+
+
+    .container{
+        max-width: 1400px;
+        padding: 0 5%;
+        margin: 0 auto;
+    }
+ 
+    section{
+        padding: 3.0rem 0;
+    }
+
+
+    header{
+        width: 100%;
+        height: auto;
+        padding: 15px 0;
+        box-shadow: 0 2px 10px #E10600
+    }
+
+
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 0;
+    }
+
+
+    .logo{
+        font-size: 30px;
+        font-weight: bold;
+        margin: 10px;
+        padding: 5px;
+        color: #FFFFFF;
+    }
+
+
+    .ul{
+        list-style: none;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        font-family: "Poetsen One", sans-serif;
+    }
+
+
+    ul li{
+        margin: 0 35px;
+        font-size: 15px;
+    }
+
+
+    ul li a{
+        display: inline-block;
+        font-size: 14px;
+        color: #FFFFFF;
+        margin: 10px;
+        padding: 5px;
+    }
+
+
+    a  {
+        color:white;
+        text-decoration: none;
+    }
