@@ -1,4 +1,4 @@
-//* PÁGINAS DENTRO DE PÁGINAS - PILOTOS *//
+//* PÁGINAS DENTRO DE PÁGINAS *//
 function mostrarPagina(id) {
   const paginas = document.querySelectorAll(".pagina");
 
