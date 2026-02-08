@@ -94,3 +94,30 @@
     text-decoration: none;
     color: #080000;
     }
+
+    /*IMAGENS - PILOTOS*/
+    .pilotos-mae {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .img-pilotos {
+        display: flex;
+        justify-content: center;
+        gap: 25px;
+        width: 100px;
+        border-radius: 15px;
+        margin-top: 10px;
+    }
+
+        .name-pilotos {
+        display: flex;
+        align-items: center;
+        color: #E10600;
+        font-family: "Poetsen One", sans-serif;
+        margin: 10px;
+        padding: 10px;
+        font-size: 25px;
+    }
